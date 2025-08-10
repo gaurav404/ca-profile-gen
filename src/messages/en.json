@@ -1,0 +1,59 @@
+{
+    "meta": {
+      "title": "A Rishab Agarwala | Chartered Accountant in Guwahati, Assam",
+      "description": "Professional accounting and tax services in Guwahati, Assam.",
+      "keywords": { "0":"A Rishab Agarwala", "1":"Chartered Accountant", "2":"Guwahati", "3":"Assam"},
+      "authors": "A Rishab Agarwala",
+      "creator": "A Rishab Agarwala",
+      "publisher": "A Rishab Agarwala"
+    },
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "contact": "Contact"
+    },
+    "footer": {
+      "title": "A Rishab Agarwala | Chartered Accountant in Guwahati, Assam"
+    },
+    "home": {
+      "description": "Trusted Chartered Accountant based in Guwahati, Assam. Providing expert financial, taxation, and compliance services.",
+      "name": "Rishab Agarwala",
+      "title": "Chartered Accountant"
+    },
+    "about": {
+      "heading": "About Me",
+      "description": "I am a Chartered Accountant with over 10 years of experience in tax planning, auditing, and advisory.",
+      "professionalBackground": {
+        "title": "Professional Background",
+        "description": "I am a Chartered Accountant with over 10 years of experience in tax planning, auditing, and advisory."
+      },
+      "qualifications": {
+        "title": "Qualifications",
+        "ca": "Chartered Accountant",
+        "experience": "10+ years of experience"
+      },
+      "expertise": {
+        "title": "Expertise",
+        "taxation": "Taxation",
+        "audit": "Audit",
+        "compliance": "Compliance",
+        "advisory": "Advisory"
+      },
+      "mission": {
+        "title": "Mission",
+        "description": "To provide expert financial, taxation, and compliance services to businesses and individuals in Guwahati, Assam."
+      }
+    },
+    "services": {
+      "heading": "Our Services",
+      "items": { "0":"Tax Planning & Filing", "1":"Audit & Assurance", "2":"Company Registration", "3":"GST Compliance", "4":"Financial Advisory"}
+    },
+    "contact": {
+      "heading": "Contact Us",
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "send": "Send Message"
+    }
+  }
